@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 # Streamlit UI Components
 with st.container():
-    st.image("img/labbot.jpg", width=200)
+    st.image("mainapp/img/labbot.jpg", width=200)
     st.title("Healthx AI Chatbot")
     st.write("This app is an assistant to medical practitioners to augument them .")
 
